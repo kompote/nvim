@@ -1,0 +1,9 @@
+# windows
+
+utilise Terminal
+
+choco install mingw git 7z
+
+Installer Python et vérifier qu'il est dans le path
+
+
