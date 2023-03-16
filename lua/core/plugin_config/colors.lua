@@ -1,3 +1,4 @@
+vim.o.termguicolors = true
 require("catppuccin").setup({
     flavour = "mocha", -- latte, frappe, macchiato, mocha
     background = { -- :h background
@@ -33,7 +34,6 @@ require("catppuccin").setup({
     integrations = {
         cmp = true,
         gitsigns = false,
-        nvimtree = false,
         telescope = true,
         notify = false,
         mini = false,
