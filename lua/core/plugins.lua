@@ -38,14 +38,14 @@ lazy.setup({
   {'nvim-telescope/telescope.nvim', branch = '0.1.x'},
 
   -- Git
---  {'lewis6991/gitsigns.nvim'},
+  {'lewis6991/gitsigns.nvim'},
 --  {'tpope/vim-fugitive'},
 
   -- Code manipulation
   {'nvim-treesitter/nvim-treesitter'},
   {'nvim-treesitter/nvim-treesitter-context'},
   {'nvim-treesitter/nvim-treesitter-textobjects'},
---  {'numToStr/Comment.nvim'},
+  {'numToStr/Comment.nvim'},
 
   -- Utilities
   {'nvim-lua/plenary.nvim'},
